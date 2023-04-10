@@ -1,0 +1,52 @@
+.csb__header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+
+  padding: 2rem 6rem;
+
+}
+
+.csb__header-links {
+  flex: 1;
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+}
+
+.csb__header-links_logo {
+  margin-right: 2rem;
+}
+
+.csb__header-links_logo img {
+  width: 100px;
+  height: 90px;
+}
+
+.csb__header-links_container {
+  display: flex;
+  flex-direction: row;
+}
+
+.csb__header-sign {
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+}
+
+.csb__header-links_container p,
+.csb__header-sign p,
+.csb__header-menu_container p {
+  font-family: var(--font-family);
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 18.77px;
+  text-transform: capitalize;
+  /* identical to box height, or 150% */
+
+  margin: 0 1rem;
+  cursor: pointer;
+
+  color: #81AFDD;
+}

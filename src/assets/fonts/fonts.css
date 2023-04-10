@@ -1,0 +1,16 @@
+/* src/assets/fonts/fonts.css */
+
+@font-face {
+  font-family: 'Work_Sans';
+  src: url('./Work_Sans/WorkSans-VariableFont_wght.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Cinzel';
+  src: url('./Cinzel/Cinzel-VariableFont_wght.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+

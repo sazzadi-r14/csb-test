@@ -1,0 +1,32 @@
+[
+    {
+      "sl": 1,
+      "name": "2021 csb classic turkey",
+      "url": "https://csbridge.github.io/turkey-21-website/en/index.html"
+    },
+    {
+      "sl": 2,
+      "name": "2021 csb classic usa",
+      "url": "https://csbridge.github.io/Ryan_CS_Bridge_2021/en/index.html"
+    },
+    {
+      "sl": 3,
+      "name": "2020 csb classic czech republic+turkey",
+      "url": "https://csbridge.github.io/lucia-example-2/en/index.html"
+    },
+    {
+      "sl": 4,
+      "name": "2019 csb classic colombia",
+      "url": "https://csbridge.github.io/csbridge2019uniandes/es/index.html"
+    },
+    {
+      "sl": 5,
+      "name": "2019 csb czech republic",
+      "url": "https://csbridge.github.io/csbridge2019ctu/en/index.html"
+    },
+    {
+      "sl": 6,
+      "name": "2019 csb classic turkey",
+      "url": "https://csbridge.github.io/csbridge2019koc/en/index.html"
+    }
+]

@@ -1,10 +1,10 @@
 export { default as Article } from './article/Article';
-export { default as Brand } from './brand/Brand';
-export { default as CTA } from './cta/CTA';
-export { default as Features } from './features/Features';
-export { default as Navbar } from './navbar/Navbar';
-export { default as Possibility } from './possibility/Possibility';
-export { default as WhatCSB } from './whatCSB/WhatCSB';
-export { default as Blog } from './blog/Blog';
+export { default as Contact } from './contact/Contact';
+export { default as Impact } from './impact/Impact';
+export { default as Projects } from './projects/Projects';
+export { default as Intro } from './intro/Intro';
 export { default as Footer } from './footer/Footer';
 export { default as Header } from './header/Header';
+export { default as Courses } from './courses/Courses';
+export { default as Mission } from './mission/Mission';
+export { default as News } from './news/News';

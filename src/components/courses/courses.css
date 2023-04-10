@@ -1,0 +1,65 @@
+.cs_body {
+    text-transform: uppercase;
+    font-weight: 300;
+}
+
+.cs_title {
+    color: #B10808;
+    font-size: 1em;
+    letter-spacing: 3px;
+    text-align: left;
+}
+
+.cs_slogan {
+    font-size: 3em;
+    padding: 1em 0em 1em 0em;
+    text-align: left;
+    line-height: normal;
+}
+
+.cs_img {
+    width: 100%;
+    padding: 0 0.5em 0 0.5em;
+}
+
+
+.oc_sl {
+    color: #B10808;
+    font-size: 1em;
+    text-align: left;
+}
+
+.oc_name {
+    font-size: 1em;
+    text-align: left;
+}
+
+
+.oc_button_img {
+    width: 100%;
+}
+
+
+a:link { 
+    text-decoration: none;
+    color: black;
+}
+
+
+a:visited {
+    text-decoration: none; 
+    color: black;
+}
+
+
+a:hover {
+    text-decoration: none;
+    color: black;
+}
+
+
+a:active {
+    text-decoration: none;
+    color: black;
+}
+

@@ -1,0 +1,42 @@
+[
+    {
+      "heading": "Can A.I. Grade Your Next Test?",
+      "description": "",
+      "image": "https://firebasestorage.googleapis.com/v0/b/csbridge-stanford.appspot.com/o/news%2Fnews1.jpeg?alt=media&token=96097047-a7d3-4d7e-8477-d878c2a92c98",
+      "source": "The New York Times",
+      "date": "July 20, 2021",
+      "link": "https://www.nytimes.com/2021/07/20/technology/ai-education-neural-networks.html"
+    },
+    {
+      "heading": "Code in Place makes CS accessible to thousands worldwide",
+      "description": "",
+      "image": "https://firebasestorage.googleapis.com/v0/b/csbridge-stanford.appspot.com/o/news%2Fnews2.jpeg?alt=media&token=b2e30a8e-407d-4974-8ff3-362664e531ec",
+      "source": "The Stanford Daily",
+      "date": "July 27, 2021",
+      "link": "https://stanforddaily.com/2020/06/08/code-in-place-makes-cs-accessible-to-thousands-worldwide/?"
+    },
+    {
+      "heading": "Code in Place: A ‘learning laboratory’ for education",
+      "description": "",
+      "image": "https://firebasestorage.googleapis.com/v0/b/csbridge-stanford.appspot.com/o/news%2Fnews3.jpeg?alt=media&token=92c0ac80-7b3e-4ed6-8e26-7e1830dbe9f7",
+      "source": "The Stanford Daily",
+      "date": "April 6, 2023",
+      "link": "https://stanforddaily.com/2023/04/06/code-in-place-a-learning-laboratory-for-education/"
+    },
+    {
+      "heading": "How We Got More Than 10,000 Students from 120 Countries to Embrace the Joy of Coding",
+      "description": "",
+      "image": "https://firebasestorage.googleapis.com/v0/b/csbridge-stanford.appspot.com/o/news%2Fnews4.jpeg?alt=media&token=918fe332-8f79-43e3-afdd-4ac47e78989a",
+      "source": "Scientific American",
+      "date": "March 14, 2021",
+      "link": "https://www.scientificamerican.com/article/how-we-got-more-than-10-000-students-from-120-countries-to-embrace-the-joy-of-coding/"
+    },
+    {
+      "heading": "Ohlone College Partners with Stanford to Debut Computer Science Bridge Program",
+      "description": "",
+      "image": "https://firebasestorage.googleapis.com/v0/b/csbridge-stanford.appspot.com/o/news%2Fnews5.jpeg?alt=media&token=9250586b-5d69-4de1-b149-6bc663964b68",
+      "source": "Ohlone College",
+      "date": "July 27, 2021",
+      "link": "https://www.ohlone.edu/article/news/ohlone-college-partners-stanford-debut-computer-science-bridge-program"
+    }
+]

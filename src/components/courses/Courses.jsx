@@ -21,7 +21,7 @@ const Courses = () => {
         <div className = 'col-sm-10 cs_body'>
 
           {/* Courses Body */}
-          <div className = 'row'>
+          <div className = 'row courses-box'>
 
             {/* Courses Left Section */}
             <div className = 'col'>
@@ -46,7 +46,7 @@ const Courses = () => {
 
             {/* Courses Image */}
             <div className = 'col'>
-              <img className = 'cs_img' src = {courses1} alt = "A person doing coding"/>
+              <img className = 'cs_img' src = {courses1} alt = "A person coding"/>
             </div>
 
           </div>

@@ -1,7 +1,6 @@
 .ms_body {
     text-transform: uppercase;
     font-weight: 300;
-
 }
 
 .ms_title {
@@ -15,29 +14,6 @@
     font-size: 3em;
     padding: 1em 0em 3em 0em;
 }
-
-.ms_priorities_title {
-    color: #B10808;
-    font-size: 1em;
-    letter-spacing: 3px;
-    padding: 3em 0 1em 0;
-}
-
-.ms_priorities_details {
-    font-size: 3em;
-    padding: 1em 0 1em 0;
-}
-
-.ms_img {
-    width: 100%;
-    padding: 0 0.5em 0 0.5em;
-}
-
-.ms_text {
-    padding: 0.5em 0 0.5em 0;
-}
-
-
 
 
 

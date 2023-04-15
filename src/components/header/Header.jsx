@@ -19,7 +19,7 @@ const Header = () => {
           <p><a href="#home">Projects</a></p>
           <p><a href="#home">Courses</a></p>
           <p><a href="#home">News</a></p>
-          <p><a href="#home">Impacts</a></p>
+          <p><a href="#home">Contact</a></p>
         </div>
       </div>
     </div>

@@ -4,6 +4,7 @@
 }
 
 .cs_title {
+
     color: #B10808;
     font-size: 1em;
     letter-spacing: 3px;
@@ -63,3 +64,6 @@ a:active {
     color: black;
 }
 
+.courses-box {
+    padding-bottom: 4rem;
+}

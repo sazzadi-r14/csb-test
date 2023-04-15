@@ -34,3 +34,9 @@
   align-items: center;
   padding: 2rem 6rem;
 }
+
+.hr {
+  fill: #C41E3A;
+  border: solid 2px #C41E3A;
+  color:  #C41E3A;
+}
